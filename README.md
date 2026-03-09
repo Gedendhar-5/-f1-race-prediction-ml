@@ -63,6 +63,8 @@ Displays a safety status flag for races in Bahrain, Saudi Arabia, Qatar, Abu Dha
 25 races from Australia (March) to Abu Dhabi (December). Gulf races marked with 🛡️.
 
 ---
+## Sample Output
+![Australian GP Prediction](f1_prediction_AUS_2026.png)
 
 ## Requirements
 
