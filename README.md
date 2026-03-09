@@ -158,8 +158,7 @@ xgboost
 ---
 
 ## 📜 License
-
-MIT License © 2026 Gege
+This project is licensed under the [MIT License](LICENSE) © 2026 Gege
 
 ---
 
