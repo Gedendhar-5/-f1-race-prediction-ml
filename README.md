@@ -79,5 +79,5 @@ xgboost
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## LICENCE
+This project is licensed under the [MIT LICENCE](LICENSE).
