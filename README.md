@@ -80,5 +80,4 @@ xgboost
 ---
 
 ## License
-## License
 MIT
